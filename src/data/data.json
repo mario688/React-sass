@@ -1,0 +1,21 @@
+[
+
+    
+    {
+      "name":"Mozilla Firefox",
+      "text":"Mozilla Firefox is an open-source web browser developed by Mozilla.Firefox has been the second most popular web browser since January,2018",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_logo_2013.svg/453px-Mozilla_Firefox_logo_2013.svg.png"
+    },
+    {
+      "name":"Google Chrome",
+      "text":"Google Chrome is a web browser developed by Google,released in 2018.Chrome is the world's most popular web browser today!",
+      "url":"https://4.bp.blogspot.com/-SAlsUK_Hwkw/TYGj8pt-kbI/AAAAAAAAAqE/blsfUwJWdbU/s1600/Google%2BChrome%2Bicon%2Bnew.png"
+    },
+    {
+      "name":"Microsoft Edge",
+      "text":"Microsoft Edge is a web browser developed by Microsoft,released in 2015.Microsoft Edge replaced Internet Explorer.",
+      "url":"https://upload.wikimedia.org/wikipedia/en/9/98/Microsoft_Edge_logo_%282019%29.svg"
+    }
+
+
+]
