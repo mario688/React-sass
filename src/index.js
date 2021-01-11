@@ -2,11 +2,13 @@
 import './index.scss';
 import React from "react";
 import ReactDOM, { render } from "react-dom";
-import Home from "./components/Home";
+import {List} from "./components/List";
+
+
 
 
 
  ReactDOM.render(
-     <Home />,
+     <List />,
      document.getElementById("root")
  );
